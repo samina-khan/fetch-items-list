@@ -17,5 +17,14 @@ To build the MVP, I focused on the following areas:
 2. Data Fetching & Error Handling: Implemented a structured repository pattern using Retrofit and Flow.
 3. State Management: Used Kotlin Coroutines & Flow for real-time updates.
 4. UI with Jetpack Compose: Built a modern UI using Composable functions.
+
 5. Dependency Injection: Used Hilt for dependency injection.
 6. Testing: Wrote unit tests for the repository and viewmodel.
+
+## Screenshots
+![expandedgroup](https://github.com/user-attachments/assets/c4c71026-cb7d-479e-aa46-2c0c88f8411b)
+
+![groupedlist](https://github.com/user-attachments/assets/1df698ec-efe2-4798-8eab-f7fb70163b34)
+
+
+
