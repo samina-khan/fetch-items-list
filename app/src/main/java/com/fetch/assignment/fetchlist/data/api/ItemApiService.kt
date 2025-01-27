@@ -1,6 +1,6 @@
-package com.square.assignment.fetchlist.data.api
+package com.fetch.assignment.fetchlist.data.api
 
-import com.square.assignment.fetchlist.data.model.Item
+import com.fetch.assignment.fetchlist.data.model.Item
 import retrofit2.http.GET
 
 interface ItemApiService {

@@ -1,9 +1,9 @@
-package com.square.assignment.fetchlist.data.repository
+package com.fetch.assignment.fetchlist.data.repository
 
 
 import android.util.Log
-import com.square.assignment.fetchlist.data.api.ItemApiService
-import com.square.assignment.fetchlist.data.model.Item
+import com.fetch.assignment.fetchlist.data.api.ItemApiService
+import com.fetch.assignment.fetchlist.data.model.Item
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import javax.inject.Inject

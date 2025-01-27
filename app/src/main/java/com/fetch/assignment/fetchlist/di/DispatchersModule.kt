@@ -1,4 +1,4 @@
-package com.square.assignment.fetchlist.data.api
+package com.fetch.assignment.fetchlist.di
 
 import dagger.Module
 import dagger.Provides

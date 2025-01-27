@@ -1,4 +1,4 @@
-package com.square.assignment.fetchlist.data.model
+package com.fetch.assignment.fetchlist.data.model
 
 import kotlinx.serialization.Serializable
 

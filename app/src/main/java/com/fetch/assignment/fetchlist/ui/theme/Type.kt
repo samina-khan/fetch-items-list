@@ -1,4 +1,4 @@
-package com.square.assignment.fetchlist.ui.theme
+package com.fetch.assignment.fetchlist.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

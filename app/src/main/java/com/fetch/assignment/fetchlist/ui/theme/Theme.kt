@@ -1,6 +1,5 @@
-package com.square.assignment.fetchlist.ui.theme
+package com.fetch.assignment.fetchlist.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

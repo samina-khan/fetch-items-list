@@ -1,4 +1,4 @@
-package com.square.assignment.fetchlist
+package com.fetch.assignment.fetchlist
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

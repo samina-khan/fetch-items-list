@@ -1,8 +1,7 @@
-package com.square.assignment.fetchlist.data.api
+package com.fetch.assignment.fetchlist.data.api
 
 
 import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory
-import com.square.assignment.fetchlist.data.api.ItemApiService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

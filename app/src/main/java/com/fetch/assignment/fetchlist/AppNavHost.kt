@@ -1,13 +1,12 @@
-package com.square.assignment.fetchlist
+package com.fetch.assignment.fetchlist
 
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.square.assignment.fetchlist.itemlist.ItemListView
+import com.fetch.assignment.fetchlist.itemlist.ItemListView
 
 
 
