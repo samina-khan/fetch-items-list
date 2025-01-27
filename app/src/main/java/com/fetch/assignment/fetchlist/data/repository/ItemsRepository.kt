@@ -17,7 +17,6 @@ class ItemsRepository @Inject constructor(
             emit(response)
         } catch (e: Exception) {
             emit(emptyList())
-            Log.d("ItemRepository", "Failed to load items: ${e.message}")
             throw Exception("Server Error: ${e.message}")
         }
     }
